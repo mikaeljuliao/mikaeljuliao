@@ -1,49 +1,78 @@
-👨‍💻 Mikael Rocha Julião
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=false&vCenter=true&width=600&lines=Desenvolvedor+Front-End;React+%7C+Next.js+%7C+TypeScript;Criando+interfaces+modernas+e+responsivas" />
+<h1 align="center">👨‍💻 Mikael Rocha Julião</h1>
 
-Desenvolvedor Front-End
+<p align="center">
+  Desenvolvedor Front-End • React • Next.js • TypeScript
+</p>
 
-Me chamo Mikael Rocha Julião, sou de Fortaleza - CE e atualmente estou cursando Sistemas para Internet.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Construindo+interfaces+modernas;Foco+em+UX%2FUI+e+performance;Clean+Code+%7C+Componentização" />
+</p>
 
-Tenho experiência como desenvolvedor front-end freelancer, criando interfaces modernas, responsivas e focadas na experiência do usuário.
+<p align="center">
+  <a href="https://portfolio-mikael-juliao-dev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mikael-juliao-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+  </a>
+</p>
 
-Antes da programação, atuei como designer gráfico, o que fortaleceu meu olhar para UX/UI, design e atenção aos detalhes.
+---
 
-Sou apaixonado por tecnologia e estou sempre buscando evoluir minhas habilidades e construir projetos cada vez mais profissionais.
+## 👨‍💻 Sobre mim
 
-🚀 Projeto em destaque
-🛒 E-commerce Tech (Open Source)
+Sou desenvolvedor front-end com experiência prática criando interfaces modernas, responsivas e focadas na experiência do usuário.
+
+Atuo como freelancer utilizando React e Next.js, aplicando boas práticas como Clean Code, componentização e consumo de APIs.
+
+Tenho background como designer gráfico, o que fortalece meu olhar para UX/UI e qualidade visual.
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🛒 E-commerce Tech
 
 🔗 https://ecommerce-store-op.netlify.app/
 
 Interface de loja virtual com:
 
-Listagem dinâmica de produtos
+- Listagem dinâmica de produtos  
+- Categorias automáticas  
+- Carrinho de compras  
+- Componentes reutilizáveis com TypeScript  
+- Foco em UX/UI e performance  
 
-Categorias automáticas
+---
 
-Carrinho de compras
+## 🛠️ Stack utilizada
 
-Componentes reutilizáveis com TypeScript
+JavaScript • TypeScript • React • Next.js  
+HTML5 • CSS3 • Tailwind CSS • Bootstrap  
+Git • GitHub • Vite • Figma  
 
-Foco em UX/UI e performance
+---
 
-🛠️ Stack utilizada nos projetos
+## 📊 Estatísticas
 
-JavaScript • TypeScript • React • Next.js
-HTML5 • CSS3 • Tailwind CSS • Bootstrap
-Git • GitHub • Vite • Figma
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight" />
+</p>
 
-🤖 Tecnologias
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/> <img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <br/> <br/>
-📊 Estatísticas
-<p> <img height="180" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight" /> </p>
-🔥 Atividade no GitHub
-<p> <img height="180" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight&locale=pt-br" /> </p>
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/mikael-juliao-dev
-Email: mikaeljuliao56@gmail.com
+---
 
-LinkedIn: https://www.linkedin.com/in/mikael-juliao-dev
+## 🔥 Atividade
 
-Email: mikaeljuliao56@gmail.com
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/mikael-juliao-dev  
+- Email: mikaeljuliao56@gmail.com  
+
+---
