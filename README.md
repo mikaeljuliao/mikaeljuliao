@@ -94,6 +94,7 @@ React • TypeScript • CSS • JavaScript
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 ---
+
 ## 📊 Estatísticas
 
 <p align="center">
@@ -106,6 +107,7 @@ React • TypeScript • CSS • JavaScript
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight&locale=pt-br" />
 </p>
+
 ---
 
 ## 🚀 Filosofia
