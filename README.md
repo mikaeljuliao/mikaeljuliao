@@ -71,12 +71,17 @@ Aplicação front-end de e-commerce com renderização dinâmica de produtos e a
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 ---
-
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight" />
+</p>
+
+## 🔥 Atividade
+
+<p align="left">
+  <img height="160" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight" />
 </p>
 
 ---
