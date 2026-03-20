@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Mikael Rocha Julião
+# Olá 👋, eu sou Mikael da Rocha Julião
 
 🚀 **Desenvolvedor Front-End | React & Next.js**  
 🇧🇷 Brasil
