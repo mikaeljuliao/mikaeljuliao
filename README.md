@@ -73,17 +73,16 @@ Aplicação front-end de e-commerce com renderização dinâmica de produtos e a
 ---
 ## 📊 Estatísticas
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight&locale=pt-br" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🔥 Atividade
 
-<p align="left">
-  <img height="160" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight" />
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight&locale=pt-br" />
 </p>
-
 ---
 
 ## 🚀 Filosofia
