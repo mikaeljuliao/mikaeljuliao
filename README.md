@@ -97,8 +97,8 @@ React • TypeScript • CSS • JavaScript
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight&cache_seconds=0&langs_count=8" />
 </p>
 
 ## 🔥 Atividade
@@ -106,7 +106,6 @@ React • TypeScript • CSS • JavaScript
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight&locale=pt-br" />
 </p>
-
 ---
 
 ## 🚀 Filosofia
