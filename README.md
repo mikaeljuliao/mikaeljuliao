@@ -12,11 +12,11 @@
 
 ## Sobre mim
 
-Desenvolvedor Front-End com experiência prática na construção de interfaces modernas, responsivas e orientadas à experiência do usuário.
+Sou desenvolvedor front-end com experiência prática criando interfaces modernas, responsivas e pensadas para a experiência do usuário.
 
-Atuo como freelancer desenvolvendo aplicações com React e Next.js, aplicando boas práticas como componentização, organização de código e consumo de APIs REST.
+Atuo como freelancer desenvolvendo soluções reais, desde landing pages até interfaces mais completas, sempre com foco em usabilidade, organização e clareza visual.
 
-Tenho background em design gráfico, o que me permite desenvolver interfaces com maior atenção à usabilidade, consistência visual e qualidade da experiência.
+Minha base como designer gráfico fortalece meu trabalho no front-end, permitindo que eu vá além do código e entregue interfaces mais intuitivas, consistentes e bem construídas.
 
 ---
 
