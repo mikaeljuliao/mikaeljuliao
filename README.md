@@ -37,17 +37,39 @@ Tenho background em design gráfico, o que fortalece meu trabalho com UX/UI, con
 - 🛠️ Manutenção e melhoria de projetos  
 
 ---
-
 ## 🚀 Projeto em destaque
 
 ### 🛒 E-commerce Tech
 
-Aplicação front-end de e-commerce com renderização dinâmica de produtos e arquitetura baseada em componentes.
+Aplicação front-end de e-commerce desenvolvida com foco em **experiência do usuário, organização de código e reutilização de componentes**.
 
-- Listagem dinâmica de produtos  
-- Estrutura reutilizável  
-- Carrinho de compras  
-- Foco em UX/UI e performance  
+O projeto simula uma loja virtual completa, com renderização dinâmica de produtos e estrutura pensada para escalabilidade.
+
+---
+
+### 🧠 Decisões e abordagem
+
+- Estrutura baseada em componentes reutilizáveis  
+- Separação clara de responsabilidades  
+- Organização voltada para manutenção e escalabilidade  
+- Consumo de dados dinâmicos (JSON)  
+
+---
+
+### 🔥 Principais resultados
+
+- Interface responsiva e adaptável a diferentes dispositivos  
+- Experiência de navegação fluida e intuitiva  
+- Componentização que facilita expansão do projeto  
+- Código organizado seguindo boas práticas  
+
+---
+
+### 🛠️ Tecnologias utilizadas
+
+React • TypeScript • CSS • JavaScript  
+
+---
 
 🔗 https://ecommerce-store-op.netlify.app/
 
@@ -83,6 +105,7 @@ Aplicação front-end de e-commerce com renderização dinâmica de produtos e a
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight&locale=pt-br" />
 </p>
+
 ---
 
 ## 🚀 Filosofia
