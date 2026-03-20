@@ -67,7 +67,7 @@ O projeto simula uma loja virtual completa, com renderização dinâmica de prod
 
 ### 🛠️ Tecnologias utilizadas
 
-React • TypeScript • CSS • JavaScript  
+React • TypeScript • Tailwind CSS
 
 ---
 
