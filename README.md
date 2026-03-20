@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor Front-End | React & Next.js**  
 🇧🇷 Brasil
 
-Desenvolvo interfaces modernas, responsivas e focadas na experiência do usuário.
+Desenvolvedor front-end focado na criação de interfaces modernas, responsivas e orientadas à experiência do usuário.
 
 Atualmente atuo como freelancer, criando projetos reais como landing pages e aplicações web, sempre priorizando clareza, usabilidade e organização do código.
 
@@ -30,8 +30,8 @@ Tenho background em design gráfico, o que fortalece meu trabalho com UX/UI, con
 ## 🧠 O que eu faço
 
 - 💻 Desenvolvimento de interfaces modernas e responsivas  
-- 🎨 Aplicação de conceitos de UX/UI  
-- ⚡ Foco em performance e organização de código  
+- 🎨 Aplicação prática de princípios de UX/UI
+- ⚡ Código limpo, organizado e com foco em performance
 - 🧩 Criação de componentes reutilizáveis  
 - 🔗 Integração com APIs  
 - 🛠️ Manutenção e melhoria de projetos  
@@ -71,7 +71,8 @@ React • TypeScript • CSS • JavaScript
 
 ---
 
-🔗 https://ecommerce-store-op.netlify.app/
+🔗 Demo: https://ecommerce-store-op.netlify.app/  
+💻 Código: https://github.com/mikaeljuliao/ecommerce-store
 
 ---
 
@@ -110,8 +111,8 @@ React • TypeScript • CSS • JavaScript
 
 ## 🚀 Filosofia
 
-> _"Interfaces bem construídas não são apenas funcionais,  
-mas claras, intuitivas e pensadas para o usuário."_
+> _"Mais do que funcionar, boas interfaces precisam ser claras,
+intuitivas e pensadas para quem usa."_
 
 ---
 
