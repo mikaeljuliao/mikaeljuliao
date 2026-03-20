@@ -1,70 +1,92 @@
-<h1 align="center">Mikael Rocha Julião</h1>
+# Olá 👋, eu sou Mikael Rocha Julião
 
-<p align="center">
-  Front-End Developer • React • Next.js • TypeScript
-</p>
+🚀 **Desenvolvedor Front-End | React & Next.js**  
+🇧🇷 Brasil
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0aa6ff&size=24&center=true&vCenter=true&width=600&lines=Construindo+interfaces+modernas+e+escaláveis;Foco+em+UX%2FUI+e+experiência+do+usuário;Clean+Code+%7C+Componentização+%7C+Performance" />
+Desenvolvo interfaces modernas, responsivas e focadas na experiência do usuário.
+
+Atualmente atuo como freelancer, criando projetos reais como landing pages e aplicações web, sempre priorizando clareza, usabilidade e organização do código.
+
+Tenho background em design gráfico, o que fortalece meu trabalho com UX/UI, consistência visual e atenção aos detalhes.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/mikaeljuliao">
+    <img src="https://img.shields.io/badge/GitHub-MIKAELJULIAO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mikael-juliao-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-MIKAEL%20JULIAO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-mikael-juliao-dev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfólio-Visitar-000000?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
 
-## Sobre mim
+## 🧠 O que eu faço
 
-Sou desenvolvedor front-end com experiência prática criando interfaces modernas, responsivas e pensadas para a experiência do usuário.
-
-Atuo como freelancer desenvolvendo soluções reais, desde landing pages até interfaces mais completas, sempre com foco em usabilidade, organização e clareza visual.
-
-Minha base como designer gráfico fortalece meu trabalho no front-end, permitindo que eu vá além do código e entregue interfaces mais intuitivas, consistentes e bem construídas.
+- 💻 Desenvolvimento de interfaces modernas e responsivas  
+- 🎨 Aplicação de conceitos de UX/UI  
+- ⚡ Foco em performance e organização de código  
+- 🧩 Criação de componentes reutilizáveis  
+- 🔗 Integração com APIs  
+- 🛠️ Manutenção e melhoria de projetos  
 
 ---
 
-## Projeto em destaque
+## 🚀 Projeto em destaque
 
-### E-commerce Tech
+### 🛒 E-commerce Tech
 
-Aplicação front-end de e-commerce com renderização dinâmica de produtos, arquitetura componentizada e gerenciamento de estado.
+Aplicação front-end de e-commerce com renderização dinâmica de produtos e arquitetura baseada em componentes.
 
-**Principais pontos:**
-
-- Estrutura baseada em componentes reutilizáveis  
-- Tipagem com TypeScript  
-- Renderização dinâmica a partir de dados JSON  
-- Organização de código seguindo boas práticas  
-- Interface focada em experiência do usuário  
+- Listagem dinâmica de produtos  
+- Estrutura reutilizável  
+- Carrinho de compras  
+- Foco em UX/UI e performance  
 
 🔗 https://ecommerce-store-op.netlify.app/
 
 ---
 
-## Stack
+## 🛠️ Tecnologias
 
-**Front-end**
-JavaScript • TypeScript • React • Next.js  
+### Front-end
 
-**Estilização**
-HTML5 • CSS3 • Tailwind CSS • Bootstrap  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-**Ferramentas**
-Git • GitHub • Vite • Figma  
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 ---
 
-## GitHub Analytics
+## 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mikaeljuliao&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeljuliao&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mikaeljuliao&theme=tokyonight" />
-</p>
+---
+
+## 🚀 Filosofia
+
+> _"Interfaces bem construídas não são apenas funcionais,  
+mas claras, intuitivas e pensadas para o usuário."_
 
 ---
 
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/mikael-juliao-dev  
-- Email: mikaeljuliao56@gmail.com  
+⭐ Fique à vontade para explorar meus projetos  
+🤝 Aberto a oportunidades e colaborações
